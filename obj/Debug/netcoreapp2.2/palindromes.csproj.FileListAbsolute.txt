@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/palindromes/obj/Debug/netcoreapp2.2/palindromes.csprojAssemblyReference.cache
+/Users/Guest/Desktop/palindromes/obj/Debug/netcoreapp2.2/palindromes.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/palindromes/obj/Debug/netcoreapp2.2/palindromes.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/palindromes/obj/Debug/netcoreapp2.2/palindromes.AssemblyInfo.cs
+/Users/Guest/Desktop/palindromes/bin/Debug/netcoreapp2.2/palindromes.deps.json
+/Users/Guest/Desktop/palindromes/bin/Debug/netcoreapp2.2/palindromes.runtimeconfig.json
+/Users/Guest/Desktop/palindromes/bin/Debug/netcoreapp2.2/palindromes.runtimeconfig.dev.json
+/Users/Guest/Desktop/palindromes/bin/Debug/netcoreapp2.2/palindromes.dll
+/Users/Guest/Desktop/palindromes/bin/Debug/netcoreapp2.2/palindromes.pdb
+/Users/Guest/Desktop/palindromes/obj/Debug/netcoreapp2.2/palindromes.dll
+/Users/Guest/Desktop/palindromes/obj/Debug/netcoreapp2.2/palindromes.pdb
