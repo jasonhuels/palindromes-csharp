@@ -1,35 +1,26 @@
 # palindromes-csharp
+#### _Palindrome checking C# console application_
 
-#### _ _
-
-#### By _**Jason Huels**_
+#### _By **Jason Huels**_
 
 ## Description
-
-_ _
-
-## Specifications
-
-| Behavior | Input | Output|
-|---:---|---:---|---:---|
-
+Palindrome checking C# console applicatio
 
 ## Setup/Installation Requirements_
+* _Clone this repository_
+* _Navigate to the directory_
+* _Run "dotnet run" command to open application in the command console_
 
 ## Known Bugs
-
-_N/A_
+* N/A
 
 ## Support and contact details
-
-_N/A_
+_jasonhuels@yahoo.com_
 
 ## Technologies Used
-
-_C#_
+_C#, ASP.NET_
 
 ### License
-
 *open source*
 
 Copyright (c) 2019 **_Jason Huels_**
